@@ -1,0 +1,8 @@
+applicazione gestione di magazzino di vendita
+database magazzino con tabella deposito(id, nome prodotto, prezzo acquisto, prezzo vendita, quantità)
+tabella vendite (id, data vendita, totale)
+tabella collegata con vendite chiamata dettaglio vendita (id, id prodotto, quantità prodotto, prezzo, id vendita)
+
+in home page varie voci come caricamento (infatti sarà possibile caricare il magazzino tramite file csv)
+ci sarà un pulsante x fare vendita e un pulsante per fare un caricamento
+poi ci occuperemo delle statistiche
